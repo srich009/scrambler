@@ -15,3 +15,18 @@ binutils, coreutils, findutils for windows
 * MinGW32
     * https://sourceforge.net/projects/mingw/files/MinGW/Base/binutils/
 
+Different executable types
+
+for f in $(ls) ; do file $f; done
+
+binutils, coreutils, findutils
+all striped binaries
+PE32 executable (console) Intel 80386 (stripped to external PDB), for MS Windows
+
+UnxUtils
+mostly non stripped, one is compressed
+PE32 executable (console) Intel 80386, for MS Windows
+PE32 executable (console) Intel 80386, for MS Windows, UPX compressed
+PE32 executable (console) Intel 80386 (stripped to external PDB), for MS Windows
+
+
