@@ -2,11 +2,9 @@
 
 CS260 research project on Ramblr
 
-According to fish:
+High Level Goals:
 
-Ramblr is angr.analyses.Reassembler
+1. Validate the original results of the paper and collect more specific information on each case failure
 
-you want to use Patcherex to control it
-it provides a nicer interface to add arbitrary code to binaries
-
+2. Attempt to recover the Control Flow Graph from executables compiled with MSVC
 
