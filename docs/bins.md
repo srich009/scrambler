@@ -1,3 +1,14 @@
+CGC:
+
+cgc binaries unpatched and patched
+https://github.com/zardus/cgc-bins
+
+
+
+
+Windows:
+
+
 Trying to use on windows style executables
 Also could look at the msvc compiler generated binaries
 
