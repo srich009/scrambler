@@ -3,11 +3,12 @@ CGC:
 cgc binaries unpatched and patched
 https://github.com/zardus/cgc-bins
 
-
+build scripts to build CGC binaries as Linux binaries for different operating systems.
+It is loosely based on TrailOfBits' cb-multios.
+https://github.com/zardus/cgc-multiarch
 
 
 Windows:
-
 
 Trying to use on windows style executables
 Also could look at the msvc compiler generated binaries
